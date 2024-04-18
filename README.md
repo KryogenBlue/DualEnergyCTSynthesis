@@ -9,7 +9,7 @@ This repository contains a PyTorch Lightning implementation of U-Net for Dual En
 - This project also utilizes GitHub Copilot and ChatGPT-4 for code suggestions and debugging assistance.
 
 #### Dataset
-- The code is designed to be compatible with any DECT Pair Dataset.
+- The code is designed to be compatible with any DECT Pair Dataset. Model hyperparameters should be fine-tuned on the data set to achieve optimal accuracy.
 - **Note:** The private dataset PLAData scanned at Nanjing General Hospital of PLA, is not authorized for public distribution. 
 
 #### Contact Information
