@@ -17,7 +17,7 @@ For more information, please contact:
 - **Email:** medphyxhli@buaa.edu.cn
 
 #### How to Use This Repository
-For more details of DECT synthesis approach, read more papers by Wei Zhao, et al.:
+For more details of DECT synthesis approach, please read more papers by Wei Zhao, et al.:
 - “A Deep Learning Approach for Dual-Energy CT Imaging Using a Single-Energy CT Data.” 15th International Meeting on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine, 2019. ([https://doi.org/10.1117/12.2534433])
 - “A Deep Learning Approach for Virtual Monochromatic Spectral CT Imaging with a Standard Single Energy CT Scanner.” Cornell University - arXiv, May 2020. ([https://doi.org/10.48550/arXiv.2005.09859])
 - “Estimating Dual-Energy CT Imaging from Single-Energy CT Data with Material Decomposition Convolutional Neural Network.” Medical Image Analysis, May 2021. ([https://doi.org/10.1016/j.media.2021.102001])
